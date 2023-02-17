@@ -1,4 +1,4 @@
-## Hi there, I'm Archef2000 👋
+## Hi there, I'm Konstantin - aka archef2000 👋
 
 ### 📎 Connect with me:
 
@@ -7,8 +7,10 @@
 <br />
 
 ### 📘 Languages:
-![Github-Stats](https://github-readme-stats.vercel.app/api?username=archef2000&show_icons=true&count_private=true&theme=transparent)
+![Github-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=archef2000&theme=transparent)
 
+### 💎 GitHub Stats:
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=archef2000&show_icons=true&count_private=true&theme=transparent)
 
 [stackoverflow]: https://stackoverflow.com/users/16495339/konstantin?tab=profile
 <!--
